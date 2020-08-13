@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.843b04d0.chunk.css",
+    "main.js": "/my-react-portfolio/static/js/main.b56cc1d4.chunk.js",
+    "main.js.map": "/my-react-portfolio/static/js/main.b56cc1d4.chunk.js.map",
+    "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.bdbff3dd.js",
+    "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.bdbff3dd.js.map",
+    "static/js/2.dd54bc13.chunk.js": "/my-react-portfolio/static/js/2.dd54bc13.chunk.js",
+    "static/js/2.dd54bc13.chunk.js.map": "/my-react-portfolio/static/js/2.dd54bc13.chunk.js.map",
+    "index.html": "/my-react-portfolio/index.html",
+    "precache-manifest.9fb8b38aeca4abecfd67fb39a1180335.js": "/my-react-portfolio/precache-manifest.9fb8b38aeca4abecfd67fb39a1180335.js",
+    "service-worker.js": "/my-react-portfolio/service-worker.js",
+    "static/css/main.843b04d0.chunk.css.map": "/my-react-portfolio/static/css/main.843b04d0.chunk.css.map",
+    "static/js/2.dd54bc13.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.dd54bc13.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-react-portfolio/static/media/noise.b6bf7337.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdbff3dd.js",
+    "static/js/2.dd54bc13.chunk.js",
+    "static/css/main.843b04d0.chunk.css",
+    "static/js/main.b56cc1d4.chunk.js"
+  ]
+}
