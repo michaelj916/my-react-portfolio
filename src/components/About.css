@@ -1,0 +1,45 @@
+.wrapper {
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: #363232f3;
+}
+
+.dev {
+    overflow-y: hidden;
+    font-size: 32px;
+    font-weight: 800;
+
+}
+
+.tech {
+    color: #eececede;
+    overflow-y: hidden;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.svgs img {
+    margin: 12px;
+}
+
+
+@media screen and (max-width: 500px) {
+    .dev {
+        font-size: 26px;
+    }
+}
+
+@media screen and (max-height: 700px) {
+    .dev {
+        font-size: 22px;
+    }
+    .wrapper {
+        top: 60%;
+    }
+}
